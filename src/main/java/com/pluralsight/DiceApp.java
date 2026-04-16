@@ -13,8 +13,6 @@ public class DiceApp {
         int count6 = 0;
         int count7 = 0;
 
-
-
         for (int i = 1; i <= 100 ; i++ ){
            dice.roll();
            roll1 = dice.getRoll();
