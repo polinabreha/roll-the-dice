@@ -22,7 +22,7 @@ public class DiceApp {
            roll2 = dice.getRoll();
            int sum = roll1 + roll2;
 
-            System.out.println("Roll " + i +": "+ roll1 + " -  " +
+            System.out.println("Roll " + i +": "+ roll1 + " - " +
                      roll2 + " Sum: " + sum);
 
             if ( sum ==2){
